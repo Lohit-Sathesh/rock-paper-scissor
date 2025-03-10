@@ -26,7 +26,6 @@ scissors = '''
 ---.__(___)
 '''
 
-#Write your code below this line 👇
 user_input= int(input("What do you choose type 0 for rock,1 for paper, 2 for scissors."))
 if user_input==0:
     print(rock)
